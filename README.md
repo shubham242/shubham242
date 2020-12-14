@@ -1,11 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">CS undergrad || Competitive Coder || Developer</h3>
-<img align="right" alt="coding" width="400"/src="https://dribbble.com/shots/3792792/attachments/3792792-Programmer?mode=media">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham242&label=Profile%20views&color=0e75b6&style=flat" alt="shubham242" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham242" alt="shubham242" /></a> </p>
+<img align="right" alt="coding" width="400"/src="https://thumbs.dreamstime.com/z/programmer-man-vector-stylized-young-developer-person-classic-professional-coding-software-typing-code-flat-cartoon-illustration-101754565.jpg">
+
 
 - 🔭 I’ve made [A website to let people post their art](https://github.com/shubham242/sketchmarks)
 
