@@ -11,7 +11,7 @@
 
 - 🔭 I’ve made [A website to let people post their art](https://github.com/shubham242/sketchmarks)
 
-- 👯 I’ve created [Web page to draw spline using HTML canvas](https://github.com/arnabsen1729/Mini-project-2020/tree/main/sub task-5)
+- 👯 Working on Project to convert State Diagram to Circuit(https://github.com/arnabsen1729/Mini-project-2020/tree/main)
 
 - 💬 Ask me about **C++ , Python , C , Web Development**
 
