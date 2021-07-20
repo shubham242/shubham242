@@ -18,11 +18,11 @@
 
 <h4 align="center">Connect with me</h4>
 <p align="center">
-<a href="https://linkedin.com/in/shubham-goyal-b392901b3"><img align="center" src="/icons/linkedin.svg" alt="shubham-goyal-b392901b3" height="30" width="40" /></a>
-<a href="https://instagram.com/shubham.24.2"><img align="center" src="/icons/instagram.svg" alt="shubham24.2" height="30" width="40" /></a>
-  <img align="center" src="/icons/instagram.svg" alt="shubham.24.2" height="30" width="40" />
-<a href="https://www.codechef.com/users/shubham242"><img align="center" src="/icons/codechef.svg" alt="shubham242" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/shubham242"><img align="center" src="/icons/codeforces.svg" alt="shubham242" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubham-goyal-b392901b3"><img align="center" src="/icons/linkedin.svg" alt="shubham-goyal-b392901b3" height="30" width="30" /></a>
+<a href="https://instagram.com/shubham.24.2"><img align="center" src="/icons/instagram.svg" alt="shubham24.2" height="30" width="30" /></a>
+<a href="https://www.facebook.com/profile.php?id=100040831035967"><img align="center" src="/icons/facebook.svg" alt="shubham24.2" height="30" width="30" /></a>
+<a href="mailto:vivekgoyal164@gmail.com"><img align="center" src="/icons/gmail.svg" alt="shubham24.2" height="30" width="30" /></a>
+
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
