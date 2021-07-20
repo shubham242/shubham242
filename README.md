@@ -6,24 +6,14 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham242" alt="shubham242" /></a> </p>
 
 
-- 🔭 I’ve made [A website to let people post their art](https://github.com/shubham242/sketchmarks)
-
-- 👯 Working on Project to convert State Diagram to Circuit(https://github.com/arnabsen1729/Mini-project-2020/tree/main)
-
-- 💬 Ask me about **C++ , Python , C , Web Development**
-
-- 📫 How to reach me **Instagram- @shubham_24.2**
-
-- ⚡ Fun fact **I can watch anime 24/7😂**
-
-<h4 align="center">Connect with me</h4>
-<p align="center">
-<a href="https://linkedin.com/in/shubham-goyal-b392901b3"><img align="center" src="/icons/linkedin.svg" alt="shubham-goyal-b392901b3" height="30" width="30" /></a>
-<a href="https://instagram.com/shubham.24.2"><img align="center" src="/icons/instagram.svg" alt="shubham24.2" height="30" width="30" /></a>
-<a href="https://www.facebook.com/profile.php?id=100040831035967"><img align="center" src="/icons/facebook.svg" alt="shubham24.2" height="30" width="30" /></a>
+- I'm 3rd year Ungrad in Computer Science and Technology at IIEST, Shibpur.
+- I do **Full Stack Development, App Development and Competitive Coding**.
+- Fun fact **I can watch anime 24/7😂**
+- Connect with me : 
+<a href="https://linkedin.com/in/shubham-goyal-b392901b3"><img align="center" src="/icons/linkedin.svg" alt="shubham-goyal-b392901b3" height="30" width="30" /></a>&nbsp;
+<a href="https://instagram.com/shubham.24.2"><img align="center" src="/icons/instagram.svg" alt="shubham24.2" height="30" width="30" /></a>&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100040831035967"><img align="center" src="/icons/facebook.svg" alt="shubham24.2" height="30" width="30" /></a>&nbsp;
 <a href="mailto:vivekgoyal164@gmail.com"><img align="center" src="/icons/gmail.svg" alt="shubham24.2" height="30" width="30" /></a>
-
-</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
