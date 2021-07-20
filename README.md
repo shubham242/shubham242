@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I can watch anime 24/7😂**
 
-<h4 align="center">Use dark theme to find my socials ;)</h4>
+<h4 align="center">Connect with me</h4>
 <p align="center">
 <a href="https://linkedin.com/in/shubham-goyal-b392901b3"><img align="center" src="/icons/linkedin.svg" alt="shubham-goyal-b392901b3" height="30" width="40" /></a>
 <a href="https://instagram.com/shubham.24.2"><img align="center" src="/icons/instagram.svg" alt="shubham24.2" height="30" width="40" /></a>
@@ -37,6 +37,7 @@
   <img src="/icons/d3js.svg" alt="c" width="40" height="40"/>
   <img src="/icons/vscode.svg" alt="c" width="40" height="40"/>
   <img src="/icons/atom.svg" alt="c" width="40" height="40"/>
+  <img src="/icons/git.svg" alt="c" width="40" height="40"/>
   <img src="/icons/heroku.svg" alt="c" width="40" height="40"/>
 </p>
 <div align="center">
