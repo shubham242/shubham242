@@ -16,7 +16,7 @@
 <a href="mailto:vivekgoyal164@gmail.com"><img align="center" src="/icons/gmail.svg" alt="shubham24.2" height="30" width="30" /></a>
 
 - Coding Profiles :
-  <a href="https://www.codechef.com/users/shubham242" target="blank"><img align="center" src="/icons/codechef.png" alt="shubham24.2" height="30" width="70" /></a> 
+  <a href="https://www.codechef.com/users/shubham242" target="blank"><img align="center" src="/icons/codechef.png" alt="shubham24.2" height="30" width="25" /></a> 
   <a href="https://codeforces.com/profile/shubham242" target="blank"><img align="center" src="/icons/codeforces.png" alt="shubham24.2" height="30" width="30" /></a>
   <a href="https://www.leetcode.com/shubham242" target="blank"><img align="center" src="/icons/leetcode.svg" alt="shubham24.2" height="30" width="30" /></a>  
 
