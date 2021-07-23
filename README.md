@@ -3,7 +3,7 @@
 <h3 align="center">CS undergrad || Competitive Coder || Developer</h3>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham242" alt="shubham242" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham242&row=1&column=6" alt="shubham242" /></a> </p>
 
 
 - I'm 3rd year Ungrad in Computer Science and Technology at IIEST, Shibpur.
@@ -15,6 +15,12 @@
 <a href="https://www.facebook.com/profile.php?id=100040831035967"><img align="center" src="/icons/facebook.svg" alt="shubham24.2" height="30" width="30" /></a>&nbsp;
 <a href="mailto:vivekgoyal164@gmail.com"><img align="center" src="/icons/gmail.svg" alt="shubham24.2" height="30" width="30" /></a>
 
+- Coding Profiles :
+  <a href="https://www.codechef.com/users/shubham242" target="blank"><img align="center" src="/icons/codechef.png" alt="shubham24.2" height="30" width="70" /></a> 
+  <a href="https://codeforces.com/profile/shubham242" target="blank"><img align="center" src="/icons/codeforces.png" alt="shubham24.2" height="30" width="30" /></a>
+  <a href="https://www.leetcode.com/shubham242" target="blank"><img align="center" src="/icons/leetcode.svg" alt="shubham24.2" height="30" width="30" /></a>  
+
+</p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <img src="/icons/c++.svg" alt="c" width="40" height="40"/>
